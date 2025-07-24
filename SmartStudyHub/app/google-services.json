@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488600632235",
+    "project_id": "smartstudy-hub-fb87a",
+    "storage_bucket": "smartstudy-hub-fb87a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488600632235:android:578921b7090173c32d70ee",
+        "android_client_info": {
+          "package_name": "com.example.smartstudyhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDry5x3r3oZDtnZVLfig4F6cDiHpcM-TDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
